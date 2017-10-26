@@ -1,0 +1,58 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Generative Design</title>
+<!-- TemplateEndEditable -->
+<link href="../boilerplate.css" rel="stylesheet" type="text/css">
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<link href="../design.css" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="../respond.min.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div class="gridContainer clearfix"><!-- TemplateBeginEditable name="Links" -->
+  <div id="header" class="heading">
+    <h1>Brian Pellican Murphy</h1>
+    <h2>Student of Environmental Science and Geospatial Analysis at Humboldt State University </h2>
+  </div>
+  <div id="article">
+    <h3>Graphic Design</h3>
+  </div>
+  <div id="article">
+    <h3>Generative Design</h3>
+  </div>
+  <div id="article">
+    <h3>3D CAD Modeling</h3>
+  </div>
+  <div id="article">
+    <h3>Geospatial Analysis</h3>
+  </div>
+<!-- TemplateEndEditable -->
+  <div id="interview"><!-- TemplateBeginEditable name="explain" -->
+    <p class="explain"> Explain this area of my art and some of the softwares used to create them</p>
+  <!-- TemplateEndEditable --></div>
+  <div id="artwork"><!-- TemplateBeginEditable name="Art" -->
+  <img src="#" alt="#" class="art"> 
+  <img src="#" alt="#" class="art"> 
+  <img src="#" alt="#" class="art"> 
+  <img src="#" alt="#" class="art"><!-- TemplateEndEditable --></div>
+  <div id="footer" class="footer">
+    <p>Copyright © 2017 Brian Murphy</p>
+  </div>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>

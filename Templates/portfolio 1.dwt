@@ -1,0 +1,66 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Graphic Design</title>
+<!-- TemplateEndEditable -->
+<link href="../boilerplate.css" rel="stylesheet" type="text/css">
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<link href="../design.css" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="../respond.min.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body class="background">
+<div class="gridContainer clearfix">
+  <div id="header" class="heading">
+    <h1>Brian Pellican Murphy</h1>
+    <h2>Student of Environmental Science and Geospatial Analysis at Humboldt State University </h2>
+  </div>
+  <div id="article">
+    <h3><a href="../GraphicDesign.html">Graphic Design</a></h3>
+  </div>
+  <div id="article">
+    <h3><a href="../GenerativeDesign.html">Generative Design</a></h3>
+  </div>
+  <div id="article">
+    <h3><a href="3DCADModeiling">3D CAD Modeling</a></h3>
+  </div>
+  <div id="article">
+    <h3><a href="GeospatialAnalysis">Geospatial Analysis</a></h3>
+  </div>
+  <div id="interview">
+    <p class="explain"> These graphic design pieces were originally created to be used as album or single art. These pieces were created in Adobe Photoshop and Adobe Illustrator, with additional graphic elements created in Maya. Themes of these pieces include the confusion originating with the digital age, loss of self identity, and begining of a new psycehedelic era brought on by digital manipulation.</p>
+  </div>
+  <div id="artwork" > 
+    <div class="caption">
+      <img src="../Graphic Design/Global warming.png" alt="Global Warming Graphic" class="art">
+      <h4>Title</h4><p>-Description of piece</p> 
+    </div>
+     <div class="caption">
+       <img src="../Graphic Design/Air brush 1.png" alt="I havn't got it figured out myself" class="art"> 
+      <h4>Title</h4><p>-Description of piece</p> 
+    </div>
+    <div class="caption">
+       <img src="../Graphic Design/whoah 6.png" alt="Action Graphic" class="art">
+      <h4>Title</h4><p>-Description of piece</p> 
+    </div>
+  
+  <div id="footer" class="footer">
+    <p>Copyright © 2017 Brian Murphy</p>
+  </div>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>
