@@ -77,6 +77,11 @@ h3 {
 	transition-duration: 0.2s;
 }
 
+p {
+	text-align:center;
+	padding: 5px 10px;
+}
+
 #article:hover {
 	background: #356094;
 	border: solid 1px #2A4E77;
